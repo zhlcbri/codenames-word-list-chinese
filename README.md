@@ -4,9 +4,9 @@ A list of handpicked Chinese words for playing [codenames](http://codenames.game
 ## Contribution guidelines
 
  1. Make a fork of this repo.
- 2. Clone your forked repo. 
+ 2. Clone your forked repo.<br>
 `https://github.com/your-account/codenames-word-list-chinese.git`
- 3. Create a new branch locally with a meaningful name 
+ 3. Create a new branch locally with a meaningful name.<br>
 `git checkout -b add_list_of_animals`
  4. Make and commit your changes, and push it to Github.
  5. Create a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) for us to review your changes.
